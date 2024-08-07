@@ -1,33 +1,543 @@
 [
   {
-    "name": "280 REMINGTON",
+    "name": "6 X 45mm",
+    "specs": {
+      "coal_in": 2.260,
+      "coal_mm": 57.40
+    },
+    "standard": "SAAMI",
+    "diameter_in": 0.2435,
+    "diameter_mm": 6.185
+  },
+  {
+    "name": "6mm REMINGTON",
+    "specs": {
+      "coal_in": 2.825,
+      "coal_mm": 71.76
+    },
+    "standard": "SAAMI",
+    "diameter_in": 0.2435,
+    "diameter_mm": 6.185
+  },
+  {
+    "name": "6.5 Creedmoor",
+    "specs": {
+      "coal_in": 2.825,
+      "coal_mm": 71.76
+    },
+    "standard": "SAAMI",
+    "diameter_in": 0.2644,
+    "diameter_mm": 6.716
+  },
+  {
+    "name": "6.5 Grendel",
+    "specs": {
+      "coal_in": 2.26,
+      "coal_mm": 57.4
+    },
+    "standard": "SAAMI",
+    "diameter_in": 0.2643,
+    "diameter_mm": 6.713
+  },
+  {
+    "name": "6.5 X 55 SWEDISH",
+    "specs": {
+      "coal_in": 3.150,
+      "coal_mm": 80.01
+    },
+    "standard": "SAAMI",
+    "diameter_in": 0.2642,
+    "diameter_mm": 6.71
+  },
+  {
+    "name": "6.8mm REMINGTON SPC",
+    "specs": {
+      "coal_in": 2.260,
+      "coal_mm": 57.40
+    },
+    "standard": "SAAMI",
+    "diameter_in": 0.2780,
+    "diameter_mm": 7.061
+  },
+  {
+    "name": "7mm Mauser (7x57)",
+    "specs": {
+      "coal_in": 3.065,
+      "coal_mm": 77.85
+    },
+    "standard": "SAAMI",
+    "diameter_in": 0.2845,
+    "diameter_mm": 7.226
+  },
+  {
+    "name": "7mm Remington Magnum",
+    "specs": {
+      "coal_in": 3.290,
+      "coal_mm": 83.57
+    },
+    "standard": "SAAMI",
+    "diameter_in": 0.2845,
+    "diameter_mm": 7.226
+  },
+  {
+    "name": "7mm Remington Short Action Ultra Magnum",
+    "specs": {
+      "coal_in": 2.825,
+      "coal_mm": 71.76
+    },
+    "standard": "SAAMI",
+    "diameter_in": 0.2845,
+    "diameter_mm": 7.226
+  },
+  {
+    "name": "7mm Remington Ultra Magnum",
+    "specs": {
+      "coal_in": 3.6,
+      "coal_mm": 91.44
+    },
+    "standard": "SAAMI",
+    "diameter_in": 0.2845,
+    "diameter_mm": 7.226
+  },
+  {
+    "name": "7mm Shooting Times Westerner",
+    "specs": {
+      "coal_in": 3.6,
+      "coal_mm": 91.44
+    },
+    "standard": "SAAMI",
+    "diameter_in": 0.2845,
+    "diameter_mm": 7.226
+  },
+  {
+    "name": "7mm Weatherby Magnum",
+    "specs": {
+      "coal_in": 3.360,
+      "coal_mm": 85.344
+    },
+    "standard": "SAAMI",
+    "diameter_in": 0.2845,
+    "diameter_mm": 7.226
+  },
+  {
+    "name": "7mm Winchester Short Magnum",
+    "specs": {
+      "coal_in": 2.860,
+      "coal_mm": 72.64
+    },
+    "standard": "SAAMI",
+    "diameter_in": 0.2845,
+    "diameter_mm": 7.226
+  },
+  {
+    "name": "7mm-08 REMINGTON",
+    "specs": {
+      "coal_in": 2.800,
+      "coal_mm": 71.12
+    },
+    "standard": "SAAMI",
+    "diameter_in": 0.2845,
+    "diameter_mm": 7.226
+  },
+  {
+    "name": "7 x 64 BRENNEKE",
+    "specs": {
+      "coal_in": 3.307,
+      "coal_mm": 83.998
+    },
+    "standard": "SAAMI",
+    "diameter_in": 0.2845,
+    "diameter_mm": 7.249
+  },
+  {
+    "name": "7-30 Waters",
+    "specs": {
+      "coal_in": 2.55,
+      "coal_mm": 64.77
+    },
+    "standard": "SAAMI",
+    "diameter_in": 0.2845,
+    "diameter_mm": 7.226
+  },
+  {
+    "name": "7.62 x 39",
+    "specs": {
+      "coal_in": 2.200,
+      "coal_mm": 55.88
+    },
+    "standard": "SAAMI",
+    "diameter_in": 0.311,
+    "diameter_mm": 7.90
+  },
+  {
+    "name": "8mm Mauser (8x57)",
+    "specs": {
+      "coal_in": 3.250,
+      "coal_mm": 82.55
+    },
+    "standard": "SAAMI",
+    "diameter_in": 0.323,
+    "diameter_mm": 8.204
+  },
+  {
+    "name": "8mm REMINGTON MAGNUM",
+    "specs": {
+      "coal_in": 3.6,
+      "coal_mm": 91.44
+    },
+    "standard": "SAAMI",
+    "diameter_in": 0.3235,
+    "diameter_mm": 8.217
+  },
+  {
+    "name": "9.3 X 62",
+    "specs": {
+      "coal_in": 3.291,
+      "coal_mm": 83.6
+    },
+    "standard": "SAAMI",
+    "diameter_in": 0.366,
+    "diameter_mm": 9.3
+  },
+  {
+    "name": "17 Hornet",
+    "specs": {
+      "coal_in": 1.720,
+      "coal_mm": 43.69
+    },
+    "standard": "SAAMI",
+    "diameter_in": 0.1725,
+    "diameter_mm": 4.382
+  },
+  {
+    "name": "17 REMINGTON",
+    "specs": {
+      "coal_in": 2.150,
+      "coal_mm": 54.61
+    },
+    "standard": "SAAMI",
+    "diameter_in": 0.1725,
+    "diameter_mm": 4.382
+  },
+  {
+    "name": "17 Remington Fireball",
+    "specs": {
+      "coal_in": 1.830,
+      "coal_mm": 46.48
+    },
+    "standard": "SAAMI",
+    "diameter_in": 0.1725,
+    "diameter_mm": 4.382
+  },
+  {
+    "name": "204 RUGER",
+    "specs": {
+      "coal_in": 2.260,
+      "coal_mm": 57.4
+    },
+    "standard": "SAAMI",
+    "diameter_in": 0.2045,
+    "diameter_mm": 5.194
+  },
+  {
+    "name": "218 BEE",
+    "specs": {
+      "coal_in": 1.680,
+      "coal_mm": 42.67
+    },
+    "standard": "SAAMI",
+    "diameter_in": 0.2245,
+    "diameter_mm": 5.702
+  },
+  {
+    "name": "22 HORNET",
+    "specs": {
+      "coal_in": 1.723,
+      "coal_mm": 43.76
+    },
+    "standard": "SAAMI",
+    "diameter_in": 0.2245,
+    "diameter_mm": 5.702
+  },
+  {
+    "name": "22-250 REMINGTON",
+    "specs": {
+      "coal_in": 2.35,
+      "coal_mm": 59.69
+    },
+    "standard": "SAAMI",
+    "diameter_in": 0.2245,
+    "diameter_mm": 5.702
+  },
+  {
+    "name": "220 Swift",
+    "specs": {
+      "coal_in": 2.680,
+      "coal_mm": 68.07
+    },
+    "standard": "SAAMI",
+    "diameter_in": 0.2245,
+    "diameter_mm": 5.702
+  },
+  {
+    "name": "221 REMINGTON FIREBALL",
+    "specs": {
+      "coal_in": 1.83,
+      "coal_mm": 46.48
+    },
+    "diameter_in": 0.2245,
+    "diameter_mm": 5.702,
+    "standard": "SAAMI"
+  },
+  {
+    "name": "222 REMINGTON",
+    "specs": {
+      "coal_in": 2.130,
+      "coal_mm": 54.10
+    },
+    "diameter_in": 0.2245,
+    "diameter_mm": 5.702,
+    "standard": "SAAMI"
+  },
+  {
+    "name": "222 REMINGTON MAGNUM",
+    "specs": {
+      "coal_in": 2.280,
+      "coal_mm": 57.91
+    },
+    "diameter_in": 0.2245,
+    "diameter_mm": 5.702,
+    "standard": "SAAMI"
+  },
+  {
+    "name": "223 REMINGTON",
+    "specs": {
+      "coal_in": 2.26,
+      "coal_mm": 57.4
+    },
+    "standard": "SAAMI",
+    "diameter_in": 0.2245,
+    "diameter_mm": 5.702
+  },
+  {
+    "name": "223 WINCHESTER SUPER SHORT MAGNUM",
+    "specs": {
+      "coal_in": 2.360,
+      "coal_mm": 59.94
+    },
+    "standard": "SAAMI",
+    "diameter_in": 0.2245,
+    "diameter_mm": 5.702
+  },
+  {
+    "name": "225 Winchester",
+    "specs": {
+      "coal_in": 2.5,
+      "coal_mm": 63.50
+    },
+    "standard": "SAAMI",
+    "diameter_in": 0.2245,
+    "diameter_mm": 5.702
+  },
+  {
+    "name": "243 WINCHESTER",
+    "specs": {
+      "coal_in": 2.71,
+      "coal_mm": 68.83
+    },
+    "standard": "SAAMI",
+    "diameter_in": 0.243,
+    "diameter_mm": 6.172
+  },
+  {
+    "name": "243 WINCHESTER SUPER SHORT MAGNUM",
+    "specs": {
+      "coal_in": 2.360,
+      "coal_mm": 59.94
+    },
+    "standard": "SAAMI",
+    "diameter_in": 0.243,
+    "diameter_mm": 6.172
+  },
+  {
+    "name": "25-06 REMINGTON",
+    "specs": {
+      "coal_in": 3.250,
+      "coal_mm": 82.55
+    },
+    "standard": "SAAMI",
+    "diameter_in": 0.2575,
+    "diameter_mm": 6.541
+  },
+  {
+    "name": "25-20 WINCHESTER",
+    "specs": {
+      "coal_in": 1.592,
+      "coal_mm": 40.44
+    },
+    "standard": "SAAMI",
+    "diameter_in": 0.2575,
+    "diameter_mm": 6.541
+  },
+  {
+    "name": "25-35 WINCHESTER",
+    "specs": {
+      "coal_in": 2.550,
+      "coal_mm": 64.77
+    },
+    "standard": "SAAMI",
+    "diameter_in": 0.2580,
+    "diameter_mm": 6.553
+  },
+  {
+    "name": "250 SAVAGE",
+    "specs": {
+      "coal_in": 2.515,
+      "coal_mm": 63.88
+    },
+    "standard": "SAAMI",
+    "diameter_in": 0.2580,
+    "diameter_mm": 6.553
+  },
+  {
+    "name": "257 ROBERTS/257 ROBERTS +P",
+    "specs": {
+      "coal_in": 2.780,
+      "coal_mm": 70.612
+    },
+    "standard": "SAAMI",
+    "diameter_in": 0.2580,
+    "diameter_mm": 6.553
+  },
+  {
+    "name": "257 Weatherby Magnum",
+    "specs": {
+      "coal_in": 3.209,
+      "coal_mm": 81.51
+    },
+    "standard": "SAAMI",
+    "diameter_in": 0.2573,
+    "diameter_mm": 6.535
+  },
+  {
+    "name": "26 NOSLER",
     "specs": {
       "coal_in": 3.34,
       "coal_mm": 84.84
     },
     "standard": "SAAMI",
-    "diameter_in": 0.284,
-    "diameter_mm": 7.21
+    "diameter_in": 0.2645,
+    "diameter_mm": 6.718
+  },
+  {
+    "name": "260 REMINGTON",
+    "specs": {
+      "coal_in": 2.8,
+      "coal_mm": 71.12
+    },
+    "standard": "SAAMI",
+    "diameter_in": 0.2645,
+    "diameter_mm": 6.718
+  },
+  {
+    "name": "264 WINCHESTER MAGNUM",
+    "specs": {
+      "coal_in": 3.34,
+      "coal_mm": 84.84
+    },
+    "standard": "SAAMI",
+    "diameter_in": 0.265,
+    "diameter_mm": 6.73
+  },
+  {
+    "name": "27 NOSLER",
+    "specs": {
+      "coal_in": 3.34,
+      "coal_mm": 84.84
+    },
+    "standard": "SAAMI",
+    "diameter_in": 0.2780,
+    "diameter_mm": 7.061
+  },
+  {
+    "name": "270 Weatherby Magnum",
+    "specs": {
+      "coal_in": 3.295,
+      "coal_mm": 83.69
+    },
+    "standard": "SAAMI",
+    "diameter_in": 0.2773,
+    "diameter_mm": 7.043
+  },
+  {
+    "name": "270 WINCHESTER",
+    "specs": {
+      "coal_in": 3.34,
+      "coal_mm": 84.84
+    },
+    "standard": "SAAMI",
+    "diameter_in": 0.2780,
+    "diameter_mm": 7.061
+  },
+  {
+    "name": "270 WINCHESTER SHORT MAGNUM",
+    "specs": {
+      "coal_in": 2.860,
+      "coal_mm": 72.64
+    },
+    "standard": "SAAMI",
+    "diameter_in": 0.2780,
+    "diameter_mm": 7.061
+  },
+  {
+    "name": "28 NOSLER",
+    "specs": {
+      "coal_in": 3.340,
+      "coal_mm": 84.84
+    },
+    "standard": "SAAMI",
+    "diameter_in": 0.2845,
+    "diameter_mm": 7.226
+  },
+  {
+    "name": "280 Ackley Improved",
+    "specs": {
+      "coal_in": 3.330,
+      "coal_mm": 84.58
+    },
+    "standard": "SAAMI",
+    "diameter_in": 0.2845,
+    "diameter_mm": 7.226
+  },
+  {
+    "name": "280 REMINGTON",
+    "specs": {
+      "coal_in": 3.330,
+      "coal_mm": 84.58
+    },
+    "standard": "SAAMI",
+    "diameter_in": 0.2845,
+    "diameter_mm": 7.226
   },
   {
     "name": "284 WINCHESTER",
     "specs": {
-      "coal_in": 3.34,
-      "coal_mm": 84.84
+      "coal_in": 2.800,
+      "coal_mm": 71.12
     },
     "standard": "SAAMI",
-    "diameter_in": 0.284,
-    "diameter_mm": 7.21
+    "diameter_in": 0.2840,
+    "diameter_mm": 7.214
   },
   {
     "name": "30 Carbine",
     "specs": {
-      "coal_in": 1.7,
-      "coal_mm": 43.18
+      "coal_in": 1.680,
+      "coal_mm": 42.67
     },
     "standard": "SAAMI",
-    "diameter_in": 0.308,
-    "diameter_mm": 7.82
+    "diameter_in": 0.309,
+    "diameter_mm": 7.849
   },
   {
     "name": "30 NOSLER",
@@ -36,8 +546,8 @@
       "coal_mm": 84.84
     },
     "standard": "SAAMI",
-    "diameter_in": 0.308,
-    "diameter_mm": 7.82
+    "diameter_in": 0.309,
+    "diameter_mm": 7.849
   },
   {
     "name": "30 REMINGTON AR",
@@ -46,18 +556,18 @@
       "coal_mm": 57.4
     },
     "standard": "SAAMI",
-    "diameter_in": 0.308,
-    "diameter_mm": 7.82
+    "diameter_in": 0.309,
+    "diameter_mm": 7.849
   },
   {
     "name": "30 Thompson Center",
     "specs": {
-      "coal_in": 2.225,
-      "coal_mm": 56.51
+      "coal_in": 2.260,
+      "coal_mm": 67.56
     },
     "standard": "SAAMI",
-    "diameter_in": 0.308,
-    "diameter_mm": 7.82
+    "diameter_in": 0.309,
+    "diameter_mm": 7.849
   },
   {
     "name": "30-06 SPRINGFIELD",
@@ -66,28 +576,28 @@
       "coal_mm": 84.84
     },
     "standard": "SAAMI",
-    "diameter_in": 0.308,
-    "diameter_mm": 7.82
+    "diameter_in": 0.309,
+    "diameter_mm": 7.849
   },
   {
     "name": "30-30 WINCHESTER",
     "specs": {
-      "coal_in": 2.557,
-      "coal_mm": 64.95
+      "coal_in": 2.550,
+      "coal_mm": 64.77
     },
     "standard": "SAAMI",
-    "diameter_in": 0.308,
-    "diameter_mm": 7.82
+    "diameter_in": 0.309,
+    "diameter_mm": 7.849
   },
   {
     "name": "30-40 KRAG",
     "specs": {
-      "coal_in": 2.93,
-      "coal_mm": 74.42
+      "coal_in": 3.089,
+      "coal_mm": 78.46
     },
     "standard": "SAAMI",
-    "diameter_in": 0.308,
-    "diameter_mm": 7.82
+    "diameter_in": 0.309,
+    "diameter_mm": 7.849
   },
   {
     "name": "300 AAC Blackout",
@@ -96,8 +606,8 @@
       "coal_mm": 57.4
     },
     "standard": "SAAMI",
-    "diameter_in": 0.308,
-    "diameter_mm": 7.82
+    "diameter_in": 0.309,
+    "diameter_mm": 7.849
   },
   {
     "name": "300 HOLLAND & HOLLAND MAGNUM",
@@ -106,53 +616,58 @@
       "coal_mm": 91.44
     },
     "standard": "SAAMI",
-    "diameter_in": 0.308,
-    "diameter_mm": 7.82
+    "diameter_in": 0.309,
+    "diameter_mm": 7.849
   },
   {
     "name": "300 Remington Short Action Ultra Magnum",
     "specs": {
-      "coal_in": 2.86,
-      "coal_mm": 72.64
+      "coal_in": 2.825,
+      "coal_mm": 71.76
     },
     "standard": "SAAMI",
-    "diameter_in": 0.308,
-    "diameter_mm": 7.82
+    "diameter_in": 0.309,
+    "diameter_mm": 7.849
   },
   {
     "name": "300 REMINGTON ULTRA MAGNUM",
-    "specs": {},
-    "standard": "SAAMI"
+    "specs": {
+      "coal_in": 3.600,
+      "coal_mm": 91.44
+    },
+    "standard": "SAAMI",
+    "diameter_in": 0.309,
+    "diameter_mm": 7.849
   },
   {
     "name": "300 RUGER COMPACT MAGNUM",
     "specs": {
-      "coal_in": 2.825,
-      "coal_mm": 71.75
+      "coal_in": 2.840,
+      "coal_mm": 72.14
     },
     "standard": "SAAMI",
-    "diameter_in": 0.308,
-    "diameter_mm": 7.82
+    "diameter_in": 0.309,
+    "diameter_mm": 7.849
   },
   {
     "name": "300 SAVAGE",
     "specs": {
-      "coal_in": 2.63,
-      "coal_mm": 66.8
+      "coal_in": 2.600,
+      "coal_mm": 66.04
     },
     "standard": "SAAMI",
-    "diameter_in": 0.308,
-    "diameter_mm": 7.82
+    "diameter_in": 0.309,
+    "diameter_mm": 7.849
   },
   {
     "name": "300 WEATHERBY MAGNUM",
     "specs": {
-      "coal_in": 3.6,
-      "coal_mm": 91.44
+      "coal_in": 3.560,
+      "coal_mm": 90.424
     },
     "standard": "SAAMI",
-    "diameter_in": 0.308,
-    "diameter_mm": 7.82
+    "diameter_in": 0.3083,
+    "diameter_mm": 7.83
   },
   {
     "name": "300 WINCHESTER MAGNUM",
@@ -161,14 +676,14 @@
       "coal_mm": 84.84
     },
     "standard": "SAAMI",
-    "diameter_in": 0.308,
-    "diameter_mm": 7.82
+    "diameter_in": 0.309,
+    "diameter_mm": 7.849
   },
   {
     "name": "300 WINCHESTER SHORT MAGNUM",
     "specs": {
       "coal_in": 2.86,
-      "coal_mm": 72.646
+      "coal_mm": 72.64
     },
     "standard": "SAAMI",
     "diameter_in": 0.308,
@@ -177,62 +692,62 @@
   {
     "name": "303 British",
     "specs": {
-      "coal_in": 2.89,
-      "coal_mm": 73.4
+      "coal_in": 3.075,
+      "coal_mm": 78.11
     },
     "standard": "SAAMI",
-    "diameter_in": 0.311,
-    "diameter_mm": 7.9
+    "diameter_in": 0.3125,
+    "diameter_mm": 7.938
   },
   {
     "name": "307 WINCHESTER",
     "specs": {
-      "coal_in": 2.87,
+      "coal_in": 2.560,
       "coal_mm": 72.9
     },
     "standard": "SAAMI",
-    "diameter_in": 0.308,
-    "diameter_mm": 7.82
+    "diameter_in": 0.3435,
+    "diameter_mm": 7.849
   },
   {
     "name": "308 MARLIN EXPRESS",
     "specs": {
-      "coal_in": 2.55,
-      "coal_mm": 64.77
+      "coal_in": 2.600,
+      "coal_mm": 64.04
     },
     "standard": "SAAMI",
-    "diameter_in": 0.308,
-    "diameter_mm": 7.82
+    "diameter_in": 0.3085,
+    "diameter_mm": 7.836
   },
   {
     "name": "308 WINCHESTER",
     "specs": {
-      "coal_in": 2.81,
-      "coal_mm": 71.37
+      "coal_in": 2.810,
+      "coal_mm": 71.374
     },
     "standard": "SAAMI",
-    "diameter_in": 0.308,
-    "diameter_mm": 7.82
+    "diameter_in": 0.309,
+    "diameter_mm": 7.849
   },
   {
     "name": "32 WINCHESTER SPECIAL",
     "specs": {
-      "coal_in": 2.56,
-      "coal_mm": 65.02
+      "coal_in": 2.565,
+      "coal_mm": 65.15
     },
     "standard": "SAAMI",
-    "diameter_in": 0.321,
-    "diameter_mm": 8.15
+    "diameter_in": 0.322,
+    "diameter_mm": 8.179
   },
   {
     "name": "32-20 WINCHESTER",
     "specs": {
-      "coal_in": 1.428,
-      "coal_mm": 36.32
+      "coal_in": 1.592,
+      "coal_mm": 40.44
     },
     "standard": "SAAMI",
-    "diameter_in": 0.317,
-    "diameter_mm": 8.05
+    "diameter_in": 0.3125,
+    "diameter_mm": 7.938
   },
   {
     "name": "325 WINCHESTER SHORT MAGNUM",
@@ -241,8 +756,8 @@
       "coal_mm": 72.64
     },
     "standard": "SAAMI",
-    "diameter_in": 0.323,
-    "diameter_mm": 8.2
+    "diameter_in": 0.3235,
+    "diameter_mm": 8.217
   },
   {
     "name": "33 NOSLER",
@@ -251,18 +766,18 @@
       "coal_mm": 84.84
     },
     "standard": "SAAMI",
-    "diameter_in": 0.338,
-    "diameter_mm": 8.59
+    "diameter_in": 0.3390,
+    "diameter_mm": 8.611
   },
   {
     "name": "338 FEDERAL",
     "specs": {
-      "coal_in": 2.0,
-      "coal_mm": 50.8
+      "coal_in": 2.820,
+      "coal_mm": 71.63
     },
     "standard": "SAAMI",
-    "diameter_in": 0.338,
-    "diameter_mm": 8.58
+    "diameter_in": 0.339,
+    "diameter_mm": 8.611
   },
   {
     "name": "338 Lapua Magnum",
@@ -271,33 +786,38 @@
       "coal_mm": 93.5
     },
     "standard": "SAAMI",
-    "diameter_in": 0.338,
-    "diameter_mm": 8.58
+    "diameter_in": 0.339,
+    "diameter_mm": 8.61
   },
   {
     "name": "338 Marlin Express",
     "specs": {
-      "coal_in": 3.25,
-      "coal_mm": 82.55
+      "coal_in": 3.600,
+      "coal_mm": 66.04
     },
     "standard": "SAAMI",
-    "diameter_in": 0.338,
-    "diameter_mm": 8.59
+    "diameter_in": 0.3385,
+    "diameter_mm": 8.598
   },
   {
     "name": "338 REMINGTON ULTRA MAGNUM",
-    "specs": {},
-    "standard": "SAAMI"
+    "specs": {
+      "coal_in": 3.600,
+      "coal_mm": 91.44
+    },
+    "standard": "SAAMI",
+    "diameter_in": 0.3383,
+    "diameter_mm": 8.593
   },
   {
     "name": "338 RUGER COMPACT MAGNUM",
     "specs": {
-      "coal_in": 2.8,
-      "coal_mm": 71.12
+      "coal_in": 2.840,
+      "coal_mm": 72.14
     },
     "standard": "SAAMI",
     "diameter_in": 0.338,
-    "diameter_mm": 8.59
+    "diameter_mm": 8.61
   },
   {
     "name": "338 WINCHESTER MAGNUM",
@@ -306,28 +826,28 @@
       "coal_mm": 84.84
     },
     "standard": "SAAMI",
-    "diameter_in": 0.338,
-    "diameter_mm": 8.58
+    "diameter_in": 0.339,
+    "diameter_mm": 8.611
   },
   {
     "name": "340 Weatherby Magnum",
     "specs": {
-      "coal_in": 3.6,
-      "coal_mm": 91.44
+      "coal_in": 3.7,
+      "coal_mm": 93.98
     },
     "standard": "SAAMI",
-    "diameter_in": 0.338,
-    "diameter_mm": 8.59
+    "diameter_in": 0.3383,
+    "diameter_mm": 8.593
   },
   {
     "name": "348 WINCHESTER",
     "specs": {
-      "coal_in": 2.8,
-      "coal_mm": 71.12
+      "coal_in": 2.795,
+      "coal_mm": 70.99
     },
     "standard": "SAAMI",
-    "diameter_in": 0.348,
-    "diameter_mm": 8.84
+    "diameter_in": 0.3495,
+    "diameter_mm": 8.877
   },
   {
     "name": "35 NOSLER",
@@ -342,12 +862,12 @@
   {
     "name": "35 REMINGTON",
     "specs": {
-      "coal_in": 2.27,
-      "coal_mm": 57.66
+      "coal_in": 2.525,
+      "coal_mm": 64.14
     },
     "standard": "SAAMI",
-    "diameter_in": 0.358,
-    "diameter_mm": 9.09
+    "diameter_in": 0.359,
+    "diameter_mm": 9.119
   },
   {
     "name": "35 Whelen",
@@ -356,33 +876,38 @@
       "coal_mm": 84.84
     },
     "standard": "SAAMI",
-    "diameter_in": 0.358,
-    "diameter_mm": 9.09
+    "diameter_in": 0.359,
+    "diameter_mm": 9.119
   },
   {
     "name": "350 Remington Magnum",
     "specs": {
-      "coal_in": 2.825,
-      "coal_mm": 71.76
+      "coal_in": 2.800,
+      "coal_mm": 71.12
     },
     "standard": "SAAMI",
-    "diameter_in": 0.348,
-    "diameter_mm": 8.84
+    "diameter_in": 0.359,
+    "diameter_mm": 9.119
   },
   {
     "name": "356 WINCHESTER",
-    "specs": {},
-    "standard": "SAAMI"
+    "specs": {
+      "coal_in": 2.560,
+      "coal_mm": 65.02
+    },
+    "standard": "SAAMI",
+    "diameter_in": 0.3585,
+    "diameter_mm": 9.106
   },
   {
     "name": "358 WINCHESTER",
     "specs": {
-      "coal_in": 2.771,
-      "coal_mm": 70.41
+      "coal_in": 2.780,
+      "coal_mm": 70.61
     },
     "standard": "SAAMI",
-    "diameter_in": 0.358,
-    "diameter_mm": 9.09
+    "diameter_in": 0.3585,
+    "diameter_mm": 9.106
   },
   {
     "name": "36 NOSLER",
@@ -397,8 +922,8 @@
   {
     "name": "370 Sako Magnum",
     "specs": {
-      "coal_in": 2.244,
-      "coal_mm": 57.01
+      "coal_in": 3.346,
+      "coal_mm": 85.0
     },
     "standard": "SAAMI",
     "diameter_in": 0.366,
@@ -406,8 +931,13 @@
   },
   {
     "name": "375 HOLLAND & HOLLAND MAGNUM",
-    "specs": {},
-    "standard": "SAAMI"
+    "specs": {
+      "coal_in": 3.60,
+      "coal_mm": 91.44
+    },
+    "standard": "SAAMI",
+    "diameter_in": 0.376,
+    "diameter_mm": 9.55
   },
   {
     "name": "375 REMINGTON ULTRA MAGNUM",
@@ -416,8 +946,8 @@
       "coal_mm": 91.44
     },
     "standard": "SAAMI",
-    "diameter_in": 0.375,
-    "diameter_mm": 9.525
+    "diameter_in": 0.376,
+    "diameter_mm": 9.55
   },
   {
     "name": "375 RUGER",
@@ -426,24 +956,24 @@
       "coal_mm": 84.84
     },
     "standard": "SAAMI",
-    "diameter_in": 0.375,
-    "diameter_mm": 9.53
+    "diameter_in": 0.376,
+    "diameter_mm": 9.55
   },
   {
     "name": "375 WINCHESTER",
     "specs": {
-      "coal_in": 3.6,
-      "coal_mm": 91.44
+      "coal_in": 2.56,
+      "coal_mm": 65.02
     },
     "standard": "SAAMI",
-    "diameter_in": 0.375,
-    "diameter_mm": 9.53
+    "diameter_in": 0.376,
+    "diameter_mm": 9.55
   },
   {
     "name": "376 STEYR",
     "specs": {
-      "coal_in": 3.25,
-      "coal_mm": 82.55
+      "coal_in": 3.11,
+      "coal_mm": 79.00
     },
     "standard": "SAAMI",
     "diameter_in": 0.376,
@@ -452,47 +982,52 @@
   {
     "name": "38-40 WINCHESTER",
     "specs": {
-      "coal_in": 1.594,
-      "coal_mm": 40.5
+      "coal_in": 1.592,
+      "coal_mm": 40.44
     },
     "standard": "SAAMI",
-    "diameter_in": 0.401,
-    "diameter_mm": 10.19
+    "diameter_in": 0.4005,
+    "diameter_mm": 10.173
   },
   {
     "name": "38-55 WINCHESTER",
     "specs": {
-      "coal_in": 2.08,
-      "coal_mm": 52.83
+      "coal_in": 2.510,
+      "coal_mm": 63.75
     },
     "standard": "SAAMI",
-    "diameter_in": 0.376,
-    "diameter_mm": 9.55
+    "diameter_in": 0.377,
+    "diameter_mm": 9.576
   },
   {
     "name": "405 WINCHESTER",
     "specs": {
-      "coal_in": 3.34,
-      "coal_mm": 84.84
+      "coal_in": 3.115,
+      "coal_mm": 79.12
     },
     "standard": "SAAMI",
-    "diameter_in": 0.411,
-    "diameter_mm": 10.44
+    "diameter_in": 0.4115,
+    "diameter_mm": 10.452
   },
   {
     "name": "416 REMINGTON MAGNUM",
-    "specs": {},
-    "standard": "SAAMI"
-  },
-  {
-    "name": "416 RIGBY",
     "specs": {
-      "coal_in": 3.6,
+      "coal_in": 3.600,
       "coal_mm": 91.44
     },
     "standard": "SAAMI",
     "diameter_in": 0.416,
-    "diameter_mm": 10.57
+    "diameter_mm": 10.566
+  },
+  {
+    "name": "416 RIGBY",
+    "specs": {
+      "coal_in": 3.750,
+      "coal_mm": 95.250
+    },
+    "standard": "SAAMI",
+    "diameter_in": 0.4165,
+    "diameter_mm": 10.579
   },
   {
     "name": "416 RUGER",
@@ -501,14 +1036,14 @@
       "coal_mm": 84.84
     },
     "standard": "SAAMI",
-    "diameter_in": 0.416,
-    "diameter_mm": 10.57
+    "diameter_in": 0.4165,
+    "diameter_mm": 10.579
   },
   {
     "name": "416 Weatherby Magnum",
     "specs": {
-      "coal_in": 3.6,
-      "coal_mm": 91.44
+      "coal_in": 3.750,
+      "coal_mm": 95.25
     },
     "standard": "SAAMI",
     "diameter_in": 0.416,
@@ -521,35 +1056,38 @@
       "coal_mm": 40.89
     },
     "standard": "SAAMI",
-    "diameter_in": 0.429,
-    "diameter_mm": 10.9
+    "diameter_in": 0.432,
+    "diameter_mm": 10.973
   },
   {
     "name": "44-40 WINCHESTER",
-    "specs": {},
+    "specs": {
+      "coal_in": 1.592,
+      "coal_mm": 40.44
+    },
     "standard": "SAAMI",
     "diameter_in": 0.427,
-    "diameter_mm": 10.84
+    "diameter_mm": 10.846
   },
   {
     "name": "444 MARLIN",
     "specs": {
-      "coal_in": 2.555,
-      "coal_mm": 64.77
+      "coal_in": 2.570,
+      "coal_mm": 65.28
     },
     "standard": "SAAMI",
-    "diameter_in": 0.429,
-    "diameter_mm": 10.9
+    "diameter_in": 0.4305,
+    "diameter_mm": 10.935
   },
   {
     "name": "45-70 GOVERNMENT",
     "specs": {
-      "coal_in": 2.54,
-      "coal_mm": 64.52
+      "coal_in": 2.550,
+      "coal_mm": 64.77
     },
     "standard": "SAAMI",
     "diameter_in": 0.458,
-    "diameter_mm": 11.63
+    "diameter_mm": 11.633
   },
   {
     "name": "450 BUSHMASTER",
@@ -558,25 +1096,28 @@
       "coal_mm": 57.4
     },
     "standard": "SAAMI",
-    "diameter_in": 0.452,
-    "diameter_mm": 11.48
+    "diameter_in": 0.4525,
+    "diameter_mm": 11.494
   },
   {
     "name": "450 MARLIN",
     "specs": {
-      "coal_in": 2.555,
-      "coal_mm": 64.77
+      "coal_in": 2.550,
+      "coal_mm": 64.76
+    },
+    "standard": "SAAMI",
+    "diameter_in": 0.4583,
+    "diameter_mm": 11.641
+  },
+  {
+    "name": "457 WILD WEST GUNS",
+    "specs": {
+      "coal_in": 2.565,
+      "coal_mm": 67.69
     },
     "standard": "SAAMI",
     "diameter_in": 0.458,
     "diameter_mm": 11.63
-  },
-  {
-    "name": "457 WILD WEST GUNS",
-    "specs": {},
-    "standard": "SAAMI",
-    "diameter_in": 0.457,
-    "diameter_mm": 11.6
   },
   {
     "name": "458 Lott",
@@ -585,8 +1126,8 @@
       "coal_mm": 91.44
     },
     "standard": "SAAMI",
-    "diameter_in": 0.458,
-    "diameter_mm": 11.63
+    "diameter_in": 0.459,
+    "diameter_mm": 11.66
   },
   {
     "name": "458 WINCHESTER MAGNUM",
@@ -595,515 +1136,37 @@
       "coal_mm": 84.84
     },
     "standard": "SAAMI",
-    "diameter_in": 0.458,
-    "diameter_mm": 11.63
+    "diameter_in": 0.459,
+    "diameter_mm": 11.659
   },
   {
     "name": "470 NITRO EXPRESS",
     "specs": {
-      "coal_in": 3.875,
-      "coal_mm": 98.43
+      "coal_in": 3.980,
+      "coal_mm": 101.092
     },
     "standard": "SAAMI",
-    "diameter_in": 0.475,
-    "diameter_mm": 12.07
+    "diameter_in": 0.4744,
+    "diameter_mm": 12.05
   },
   {
     "name": "475 TURNBULL",
-    "specs": {},
-    "standard": "SAAMI"
+    "specs": {
+      "coal_in": 2.780,
+      "coal_mm": 70.61
+    },
+    "standard": "SAAMI",
+    "diameter_in": 0.4755,
+    "diameter_mm": 12.078
   },
   {
     "name": "500 NITRO EXPRESS 3",
     "specs": {
-      "coal_in": 3.0,
-      "coal_mm": 76.2
+      "coal_in": 3.75,
+      "coal_mm": 95.25
     },
     "standard": "SAAMI",
-    "diameter_in": 0.51,
-    "diameter_mm": 12.95
-  },
-  {
-    "name": "6 X 45mm",
-    "specs": {},
-    "standard": "SAAMI",
-    "diameter_in": 0.236,
-    "diameter_mm": 6
-  },
-  {
-    "name": "6mm REMINGTON",
-    "specs": {
-      "coal_in": 2.8,
-      "coal_mm": 71.12
-    },
-    "standard": "SAAMI",
-    "diameter_in": 0.243,
-    "diameter_mm": 6.17
-  },
-  {
-    "name": "6.5 Creedmoor",
-    "specs": {
-      "coal_in": 2.825,
-      "coal_mm": 71.75
-    },
-    "standard": "SAAMI",
-    "diameter_in": 0.264,
-    "diameter_mm": 6.71
-  },
-  {
-    "name": "6.5 Grendel",
-    "specs": {
-      "coal_in": 2.26,
-      "coal_mm": 57.4
-    },
-    "standard": "SAAMI",
-    "diameter_in": 0.264,
-    "diameter_mm": 6.71
-  },
-  {
-    "name": "6.5 X 55 SWEDISH",
-    "specs": {
-      "coal_in": 3.15,
-      "coal_mm": 80.01
-    },
-    "standard": "SAAMI",
-    "diameter_in": 0.264,
-    "diameter_mm": 6.71
-  },
-  {
-    "name": "6.8mm REMINGTON SPC",
-    "specs": {},
-    "standard": "SAAMI",
-    "diameter_in": 0.277,
-    "diameter_mm": 7.04
-  },
-  {
-    "name": "7mm Mauser (7x57)",
-    "specs": {
-      "coal_in": 3.102,
-      "coal_mm": 78.747
-    },
-    "standard": "SAAMI",
-    "diameter_in": 0.284,
-    "diameter_mm": 7.214
-  },
-  {
-    "name": "7mm Remington Magnum",
-    "specs": {
-      "coal_in": 2.76,
-      "coal_mm": 70.104
-    },
-    "standard": "SAAMI",
-    "diameter_in": 0.284,
-    "diameter_mm": 7.2136
-  },
-  {
-    "name": "7mm Remington Short Action Ultra Magnum",
-    "specs": {},
-    "standard": "SAAMI",
-    "diameter_in": 0.284,
-    "diameter_mm": 7.21
-  },
-  {
-    "name": "7mm Remington Ultra Magnum",
-    "specs": {
-      "coal_in": 3.6,
-      "coal_mm": 91.44
-    },
-    "standard": "SAAMI",
-    "diameter_in": 0.284,
-    "diameter_mm": 7.21
-  },
-  {
-    "name": "7mm Shooting Times Westerner",
-    "specs": {
-      "coal_in": 3.315,
-      "coal_mm": 84.15
-    },
-    "standard": "SAAMI",
-    "diameter_in": 0.284,
-    "diameter_mm": 7.21
-  },
-  {
-    "name": "7mm Weatherby Magnum",
-    "specs": {
-      "coal_in": 3.6,
-      "coal_mm": 91.44
-    },
-    "standard": "SAAMI",
-    "diameter_in": 0.284,
-    "diameter_mm": 7.21
-  },
-  {
-    "name": "7mm Winchester Short Magnum",
-    "specs": {
-      "coal_in": 2.1,
-      "coal_mm": 53.34
-    },
-    "standard": "SAAMI",
-    "diameter_in": 0.284,
-    "diameter_mm": 7.21
-  },
-  {
-    "name": "7mm-08 REMINGTON",
-    "specs": {
-      "coal_in": 2.81,
-      "coal_mm": 71.37
-    },
-    "standard": "SAAMI",
-    "diameter_in": 0.284,
-    "diameter_mm": 7.21
-  },
-  {
-    "name": "7 x 64 BRENNEKE",
-    "specs": {
-      "coal_in": 3.228,
-      "coal_mm": 82.0
-    },
-    "standard": "SAAMI",
-    "diameter_in": 0.284,
-    "diameter_mm": 7.21
-  },
-  {
-    "name": "7-30 Waters",
-    "specs": {
-      "coal_in": 2.55,
-      "coal_mm": 64.77
-    },
-    "standard": "SAAMI",
-    "diameter_in": 0.284,
-    "diameter_mm": 7.21
-  },
-  {
-    "name": "7.62 x 39",
-    "specs": {
-      "coal_in": 2.204,
-      "coal_mm": 56.0
-    },
-    "standard": "SAAMI",
-    "diameter_in": 0.312,
-    "diameter_mm": 7.92
-  },
-  {
-    "name": "8mm Mauser (8x57)",
-    "specs": {
-      "coal_in": 3.075,
-      "coal_mm": 78.11
-    },
-    "standard": "SAAMI",
-    "diameter_in": 0.323,
-    "diameter_mm": 8.2
-  },
-  {
-    "name": "8mm REMINGTON MAGNUM",
-    "specs": {
-      "coal_in": 3.6,
-      "coal_mm": 91.44
-    },
-    "standard": "SAAMI",
-    "diameter_in": 0.323,
-    "diameter_mm": 8.2
-  },
-  {
-    "name": "9.3 X 62",
-    "specs": {
-      "coal_in": 3.15,
-      "coal_mm": 80.0
-    },
-    "standard": "SAAMI",
-    "diameter_in": 0.366,
-    "diameter_mm": 9.3
-  },
-  {
-    "name": "17 Hornet",
-    "specs": {
-      "coal_in": 1.35,
-      "coal_mm": 34.29
-    },
-    "standard": "SAAMI",
-    "diameter_in": 0.172,
-    "diameter_mm": 4.37
-  },
-  {
-    "name": "17 REMINGTON",
-    "specs": {
-      "coal_in": 1.625,
-      "coal_mm": 41.275
-    },
-    "standard": "SAAMI",
-    "diameter_in": 0.172,
-    "diameter_mm": 4.368
-  },
-  {
-    "name": "17 Remington Fireball",
-    "specs": {
-      "coal_in": 1.825,
-      "coal_mm": 46.355
-    },
-    "standard": "SAAMI",
-    "diameter_in": 0.172,
-    "diameter_mm": 4.368
-  },
-  {
-    "name": "204 RUGER",
-    "specs": {
-      "coal_in": 2.26,
-      "coal_mm": 57.4
-    },
-    "standard": "SAAMI",
-    "diameter_in": 0.204,
-    "diameter_mm": 5.18
-  },
-  {
-    "name": "218 BEE",
-    "specs": {
-      "coal_in": 1.6,
-      "coal_mm": 40.64
-    },
-    "standard": "SAAMI",
-    "diameter_in": 0.224,
-    "diameter_mm": 5.69
-  },
-  {
-    "name": "22 HORNET",
-    "specs": {
-      "coal_in": 1.713,
-      "coal_mm": 43.458
-    },
-    "standard": "SAAMI",
-    "diameter_in": 0.224,
-    "diameter_mm": 5.689
-  },
-  {
-    "name": "22-250 REMINGTON",
-    "specs": {
-      "coal_in": 2.35,
-      "coal_mm": 59.69
-    },
-    "standard": "SAAMI",
-    "diameter_in": 0.224,
-    "diameter_mm": 5.69
-  },
-  {
-    "name": "220 Swift",
-    "specs": {
-      "coal_in": 3.56,
-      "coal_mm": 90.42
-    },
-    "standard": "SAAMI",
-    "diameter_in": 0.224,
-    "diameter_mm": 5.69
-  },
-  {
-    "name": "221 REMINGTON FIREBALL",
-    "specs": {},
-    "standard": "SAAMI"
-  },
-  {
-    "name": "222 REMINGTON",
-    "specs": {},
-    "standard": "SAAMI"
-  },
-  {
-    "name": "222 REMINGTON MAGNUM",
-    "specs": {},
-    "standard": "SAAMI"
-  },
-  {
-    "name": "223 REMINGTON",
-    "specs": {
-      "coal_in": 2.26,
-      "coal_mm": 57.4
-    },
-    "standard": "SAAMI",
-    "diameter_in": 0.224,
-    "diameter_mm": 5.69
-  },
-  {
-    "name": "223 WINCHESTER SUPER SHORT MAGNUM",
-    "specs": {},
-    "standard": "SAAMI",
-    "diameter_in": 0.223,
-    "diameter_mm": 5.66
-  },
-  {
-    "name": "225 Winchester",
-    "specs": {
-      "coal_in": 2.81,
-      "coal_mm": 71.4
-    },
-    "standard": "SAAMI",
-    "diameter_in": 0.224,
-    "diameter_mm": 5.56
-  },
-  {
-    "name": "243 WINCHESTER",
-    "specs": {
-      "coal_in": 2.71,
-      "coal_mm": 68.83
-    },
-    "standard": "SAAMI",
-    "diameter_in": 0.243,
-    "diameter_mm": 6.17
-  },
-  {
-    "name": "243 WINCHESTER SUPER SHORT MAGNUM",
-    "specs": {
-      "coal_in": 2.235,
-      "coal_mm": 56.77
-    },
-    "standard": "SAAMI",
-    "diameter_in": 0.243,
-    "diameter_mm": 6.17
-  },
-  {
-    "name": "25 WINCHESTER SUPER SHORT MAGNUM",
-    "specs": {},
-    "standard": "SAAMI"
-  },
-  {
-    "name": "25-06 REMINGTON",
-    "specs": {},
-    "standard": "SAAMI"
-  },
-  {
-    "name": "25-20 WINCHESTER",
-    "specs": {
-      "coal_in": 1.35,
-      "coal_mm": 34.29
-    },
-    "standard": "SAAMI",
-    "diameter_in": 0.257,
-    "diameter_mm": 6.53
-  },
-  {
-    "name": "25-35 WINCHESTER",
-    "specs": {
-      "coal_in": 2.05,
-      "coal_mm": 52.07
-    },
-    "standard": "SAAMI",
-    "diameter_in": 0.257,
-    "diameter_mm": 6.53
-  },
-  {
-    "name": "250 SAVAGE",
-    "specs": {
-      "coal_in": 2.565,
-      "coal_mm": 65.15
-    },
-    "standard": "SAAMI",
-    "diameter_in": 0.257,
-    "diameter_mm": 6.53
-  },
-  {
-    "name": "257 ROBERTS/257 ROBERTS +P",
-    "specs": {
-      "coal_in": 2.131,
-      "coal_mm": 54.13
-    },
-    "standard": "SAAMI",
-    "diameter_in": 0.257,
-    "diameter_mm": 6.53
-  },
-  {
-    "name": "257 Weatherby Magnum",
-    "specs": {
-      "coal_in": 3.25,
-      "coal_mm": 82.55
-    },
-    "standard": "SAAMI",
-    "diameter_in": 0.257,
-    "diameter_mm": 6.528
-  },
-  {
-    "name": "26 NOSLER",
-    "specs": {
-      "coal_in": 3.34,
-      "coal_mm": 84.836
-    },
-    "standard": "SAAMI",
-    "diameter_in": 0.264,
-    "diameter_mm": 6.71
-  },
-  {
-    "name": "260 REMINGTON",
-    "specs": {
-      "coal_in": 2.8,
-      "coal_mm": 71.12
-    },
-    "standard": "SAAMI",
-    "diameter_in": 0.264,
-    "diameter_mm": 6.71
-  },
-  {
-    "name": "264 WINCHESTER MAGNUM",
-    "specs": {
-      "coal_in": 3.34,
-      "coal_mm": 84.84
-    },
-    "standard": "SAAMI",
-    "diameter_in": 0.264,
-    "diameter_mm": 6.71
-  },
-  {
-    "name": "27 NOSLER",
-    "specs": {
-      "coal_in": 3.34,
-      "coal_mm": 84.84
-    },
-    "standard": "SAAMI",
-    "diameter_in": 0.277,
-    "diameter_mm": 7.04
-  },
-  {
-    "name": "270 Weatherby Magnum",
-    "specs": {
-      "coal_in": 3.669,
-      "coal_mm": 93.22
-    },
-    "standard": "SAAMI",
-    "diameter_in": 0.277,
-    "diameter_mm": 7.04
-  },
-  {
-    "name": "270 WINCHESTER",
-    "specs": {
-      "coal_in": 3.34,
-      "coal_mm": 84.84
-    },
-    "standard": "SAAMI",
-    "diameter_in": 0.277,
-    "diameter_mm": 7.04
-  },
-  {
-    "name": "270 WINCHESTER SHORT MAGNUM",
-    "specs": {
-      "coal_in": 2.36,
-      "coal_mm": 59.94
-    },
-    "standard": "SAAMI",
-    "diameter_in": 0.277,
-    "diameter_mm": 7.04
-  },
-  {
-    "name": "28 NOSLER",
-    "specs": {
-      "coal_in": 3.34,
-      "coal_mm": 84.84
-    },
-    "standard": "SAAMI",
-    "diameter_in": 0.2845,
-    "diameter_mm": 7.226
-  },
-  {
-    "name": "280 Ackley Improved",
-    "specs": {
-      "coal_in": 3.34,
-      "coal_mm": 84.84
-    },
-    "standard": "SAAMI",
-    "diameter_in": 0.284,
-    "diameter_mm": 7.21
+    "diameter_in": 0.512,
+    "diameter_mm": 13.00
   }
 ]
