@@ -21,3 +21,7 @@ This should give you a json file for each cartridge.
 These files can then be merged into one saami.json file.
 
 It is possible to resume the process if it fails in the middle. Any existing json files will simply be skipped.
+
+# TODOs
+Use the new structured output feature.
+https://openai.com/index/introducing-structured-outputs-in-the-api/
