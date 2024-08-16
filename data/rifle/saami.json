@@ -1168,5 +1168,245 @@
     "standard": "SAAMI",
     "diameter_in": 0.512,
     "diameter_mm": 13.00
+  },
+  {
+    "name": "21 SHARP",
+    "specs": {
+      "coal_in": 1.0,
+      "coal_mm": 25.40
+    },
+    "standard": "SAAMI",
+    "diameter_in": 0.2105,
+    "diameter_mm": 5.347
+  },
+  {
+    "name": "22 Creedmoor",
+    "specs": {
+      "coal_in": 2.70,
+      "coal_mm": 68.58
+    },
+    "standard": "SAAMI",
+    "diameter_in": 0.224,
+    "diameter_mm": 5.700
+  },
+  {
+    "name": "22 Nosler",
+    "specs": {
+      "coal_in": 2.260,
+      "coal_mm": 57.40
+    },
+    "standard": "SAAMI",
+    "diameter_in": 0.2245,
+    "diameter_mm": 5.702
+  },
+  {
+    "name": "224 Valkyrie",
+    "specs": {
+      "coal_in": 2.260,
+      "coal_mm": 57.40
+    },
+    "standard": "SAAMI",
+    "diameter_in": 0.2245,
+    "diameter_mm": 5.702
+  },
+  {
+    "name": "277 SIG FURY",
+    "specs": {
+      "coal_in": 2.825,
+      "coal_mm": 71.76
+    },
+    "standard": "SAAMI",
+    "diameter_in": 0.2780,
+    "diameter_mm": 7.061
+  },
+  {
+    "name": "5.7 X 28 FN",
+    "specs": {
+      "coal_in": 1.594,
+      "coal_mm": 40.50
+    },
+    "standard": "SAAMI",
+    "diameter_in": 0.224,
+    "diameter_mm": 5.70
+  },
+  {
+    "name": "6 ARC",
+    "specs": {
+      "coal_in": 2.260,
+      "coal_mm": 57.4
+    },
+    "standard": "SAAMI",
+    "diameter_in": 0.2433,
+    "diameter_mm": 6.180
+  },
+  {
+    "name": "6mm Creedmoor",
+    "specs": {
+      "coal_in": 2.80,
+      "coal_mm": 71.12
+    },
+    "standard": "SAAMI",
+    "diameter_in": 0.2434,
+    "diameter_mm": 6.182
+  },
+  {
+    "name": "6mm GT",
+    "specs": {
+      "coal_in": 2.64,
+      "coal_mm": 67.06
+    },
+    "standard": "SAAMI",
+    "diameter_in": 0.2433,
+    "diameter_mm": 6.180
+  },
+  {
+    "name": "6.5-284 Norma",
+    "specs": {
+      "coal_in": 3.228,
+      "coal_mm": 82.00
+    },
+    "standard": "SAAMI",
+    "diameter_in": 0.2642,
+    "diameter_mm": 6.710
+  },
+  {
+    "name": "6.5-300 Weatherby Magnum",
+    "specs": {
+      "coal_in": 3.60,
+      "coal_mm": 91.44
+    },
+    "standard": "SAAMI",
+    "diameter_in": 0.2644,
+    "diameter_mm": 6.716
+  },
+  {
+    "name": "6.5 PRC",
+    "specs": {
+      "coal_in": 2.955,
+      "coal_mm": 75.06
+    },
+    "standard": "SAAMI",
+    "diameter_in": 0.2644,
+    "diameter_mm": 6.716
+  },
+  {
+    "name": "6.5 Weatherby Rebated Precision Magnum",
+    "specs": {
+      "coal_in": 3.340,
+      "coal_mm": 84.836
+    },
+    "standard": "SAAMI",
+    "diameter_in": 0.2643,
+    "diameter_mm": 6.713
+  },
+  {
+    "name": "6.8 True Velocity Composite",
+    "specs": {
+      "coal_in": 2.810,
+      "coal_mm": 71.37
+    },
+    "standard": "SAAMI",
+    "diameter_in": 0.2777,
+    "diameter_mm": 7.054
+  },
+  {
+    "name": "6.8 Western",
+    "specs": {
+      "coal_in": 2.955,
+      "coal_mm": 75.06
+    },
+    "standard": "SAAMI",
+    "diameter_in": 0.278,
+    "diameter_mm": 7.06
+  },
+  {
+    "name": "7 PRC",
+    "specs": {
+      "coal_in": 3.340,
+      "coal_mm": 84.84
+    },
+    "standard": "SAAMI",
+    "diameter_in": 0.2844,
+    "diameter_mm": 7.224
+  },
+  {
+    "name": "300 Norma Magnum",
+    "specs": {
+      "coal_in": 3.681,
+      "coal_mm": 93.50
+    },
+    "standard": "SAAMI",
+    "diameter_in": 0.3083,
+    "diameter_mm": 7.83
+  },
+  {
+    "name": "300 PRC",
+    "specs": {
+      "coal_in": 3.700,
+      "coal_mm": 93.98
+    },
+    "standard": "SAAMI",
+    "diameter_in": 0.3084,
+    "diameter_mm": 7.833
+  },
+  {
+    "name": "300 HAM'R",
+    "specs": {
+      "coal_in": 2.260,
+      "coal_mm": 57.40
+    },
+    "standard": "SAAMI",
+    "diameter_in": 0.309,
+    "diameter_mm": 7.85
+  },
+  {
+    "name": "338 Norma Magnum",
+    "specs": {
+      "coal_in": 3.681,
+      "coal_mm": 93.50
+    },
+    "standard": "SAAMI",
+    "diameter_in": 0.3386,
+    "diameter_mm": 8.60
+  },
+  {
+    "name": "338 Weatherby Rebated Precision Magnum",
+    "specs": {
+      "coal_in": 3.380,
+      "coal_mm": 85.85
+    },
+    "standard": "SAAMI",
+    "diameter_in": 0.3383,
+    "diameter_mm": 8.593
+  },
+  {
+    "name": "350 Legend",
+    "specs": {
+      "coal_in": 2.260,
+      "coal_mm": 57.40
+    },
+    "standard": "SAAMI",
+    "diameter_in": 0.3570,
+    "diameter_mm": 9.068
+  },
+  {
+    "name": "360 Buckhammer",
+    "specs": {
+      "coal_in": 2.50,
+      "coal_mm": 63.50
+    },
+    "standard": "SAAMI",
+    "diameter_in": 0.359,
+    "diameter_mm": 9.12
+  },
+  {
+    "name": "400 Legend",
+    "specs": {
+      "coal_in": 2.260,
+      "coal_mm": 57.40
+    },
+    "standard": "SAAMI",
+    "diameter_in": 0.4005,
+    "diameter_mm": 10.173
   }
 ]
